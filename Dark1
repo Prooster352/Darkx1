@@ -18,7 +18,7 @@
           "layout": 1,
           "buttontext": "<RichColor Color=\"1,0,0,1\">1 Box layout</>",
           "title1": "Darkx Primal Choas Vanilla Plus Long term!",
-          "text1": "The goal of this server is to find a long term home where players can enojoy the experience with out the risk of losing there inventory while not dealing with the grindy settings of vanilla. Not all this will be working on this hud as updates and changes are to come.Dont Be a Dick. We do not use Prefered Pronouns. And Griefers will be perma ban. No exceptions. \n\n The Discord Link does Work. Ui is a work inprogress. \n\n Pending text:\n\nYou can use the ARKML syntax to colorize the titles, normal text and button texts. ARKML uses RGBA values to define the colors. Here are some examples:\n\n<RichColor Color=\"1,0,0,1\"><RichColor Color=\"1,0,0,1\">Red Text</></>\n<RichColor Color=\"0,1,0,1\"><RichColor Color=\"0,1,0,1\">Green Text</></>\n\nPlease keep in mind that you <TextStyle.Red>NEED TO</> unescape the doublequotes with a backslash!!!",
+          "text1": "The goal of this server is to find a long term home where players can enojoy the experience with out the risk of losing there inventory while not dealing with the grindy settings of vanilla. Not all this will be working on this hud as updates and changes are to come.Dont Be a Dick. We do not use Prefered Pronouns. And Griefers will be perma ban. No exceptions. \n\n The Discord Link does Work. Ui is a work inprogress. \n\n Pending text:\n\n,
           "imageurl": "https://i.imgur.com/mGt3cAF.png"
         }
       },

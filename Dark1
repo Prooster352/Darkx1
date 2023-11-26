@@ -18,18 +18,19 @@
                     "layout": 1,
                     "buttontext": "<RichColor Color=\"1,0,0,1\">1 General and Rules </>",
                     "title1": "Darkx Primal Choas Vanilla Plus Long term!",
-                    "text1": "The goal of this server is to find a long term home where players can enojoy the experience with out the risk of losing there inventory while not dealing with the grindy settings of vanilla. Not all this will be working on this hud as updates and changes are to come. \n\n Dont Be a Dick. We do not use Prefered Pronouns. And Griefers will be perma ban. No exceptions. \n\n Discord Link Is Working",
+                    "text1": "The goal of this server is to find a long term home where players can enojoy the experience with out the risk of losing there inventory while not dealing with the grindy settings of vanilla. Not all this will be working on this hud as updates and changes are to come. \n\n Dont Be a Dick. And Griefers will be perma ban. No exceptions. \n\n Discord Link Is Working",
                     "imageurl": "https://i.imgur.com/mGt3cAF.png"
                 }
             },
             {
                 "tab2": {
                     "layout": 2,
-                    "buttontext": "Not Working",
-                    "title1": "Left title",
-                    "title2": "Right title",
-                    "text1": "This text goes into the left box",
-                    "text2": "This text goes into the right box",
+                    "buttontext": "Current Mods",
+                    "title1": "List 1",
+                    "title2": "List 2",
+                    "text1":"Custom Dino Levels, Stop The Steal,Improved Incubator, Dino Retrival Terminal,SuperSpyGlass Plus, Utilities Plus, Teleport, Primal Chaos, Wbui2, Ark Nav, Solo Farm Mod,Egg Collector",
+
+                    "text2": "BetterTranqs, Automated Ark, Death Inventory Keeper, Imbue and Upgrade Station, Sqaw Flyer, AutoDoors, Ez Engram Unlocker, Easy Mutations, Omega Dino Storage, Gryphons, Admin Panel,Alfa Oceania PlataForms  ",
                     "imageurl": "https://i.imgur.com/mGt3cAF.png"
                 }
             },
